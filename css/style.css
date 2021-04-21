@@ -1,0 +1,21 @@
+@charset "UTF-8";
+*{ margin: 0; padding: 0;}
+html,body{ height: 0;}
+
+#container{
+  position: relative;
+  width: 400px;
+  height: 400px;
+  background: yellow;
+}
+
+#animate{
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  background: salmon;
+}
+
+button{
+  margin: 10px;
+}
